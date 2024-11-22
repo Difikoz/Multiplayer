@@ -11,6 +11,7 @@ TagManager:
   - Pawn
   - Water
   - UI
+  - Interactable
   - 
   - 
   - 
@@ -35,8 +36,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - WorldSpaceUI
   m_SortingLayers:
   - name: Default
     uniqueID: 0
